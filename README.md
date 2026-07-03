@@ -1,5 +1,8 @@
-# 💫 About Me:
-I enjoy turning ideas into code, experimenting with new technologies, and building projects that help me grow as a developer.<br><br>Currently working with: Java • Python • React • Spring Boot • Playwright
+# About Me:
+I enjoy experimenting with new technologies, and building projects that help me grow as a developer.<br><br>
+Current Tech Stack: Java • Python • Spring Boot • Playwright<br><br>
+Currently Working on Banking portal app :D <br>
+
 
 
 # 💻 Tech Stack:
